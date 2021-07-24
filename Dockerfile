@@ -1,4 +1,4 @@
-FROM node:apline
+FROM node:current-alpine
 
 WORKDIR /usr/src/app
 
